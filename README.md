@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**SarahNaif/SarahNaif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">About Me</h3>
 
-Here are some ideas to get you started:
+- 🎓 Bsc Information Technology - Saudi Electronic University of Computing and Informatics.
+- 🔭 I’m currently working on **my Portfolio Website** 😁
+- 🌱 I’m currently learning **Chart.js, Redux, Next.js**
+- 👯 I’m looking to **collaborate with other Developers** 😉
+- 💬 Ask me about anything, **I am happy to help** 😄
+- 📬 How to **contact with me** : <a href="https://linkedin.com/in/https://www.linkedin.com/in/sarah-althowebi/" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarah-althowebi/" height="20" width="40" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarahnaif&label=Profile%20views&color=0e75b6&style=flat" alt="sarahnaif" /> </p>
+
+
+
