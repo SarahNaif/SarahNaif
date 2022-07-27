@@ -2,7 +2,6 @@
 
 <h3 align="left">🧐 About Me:</h3>
 
-- 🎓 Bsc Information Technology - Saudi Electronic University of Computing and Informatics.
 - 🔭 I’m currently working on **my Portfolio Website** 😁
 - 🌱 I’m currently learning **Chart.js, Redux, Next.js**
 - 👯 I’m looking to **collaborate with other Developers** 😉
