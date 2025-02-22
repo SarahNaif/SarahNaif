@@ -2,6 +2,7 @@
 
 <h3 align="left">🧐 About Me:</h3>
 
+- i joined stitch co
 - 🔭 I’m currently working on **my Portfolio Website** 😁
 - 🌱 I’m currently learning **Chart.js, Redux, Next.js**
 - 👯 I’m looking to **collaborate with other Developers** 😉
